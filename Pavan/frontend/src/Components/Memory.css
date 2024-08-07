@@ -1,0 +1,32 @@
+  .memory-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-left: 50px;
+    
+}
+.memory-table th, .memory-table td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+  
+  .memory-table th {
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  .memory-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .memory-table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .memory-table h3 {
+    margin-bottom: 10px;
+    font-size: 1.5em;
+  }
+  
