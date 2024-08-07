@@ -1,0 +1,40 @@
+  .user {
+    padding: 20px;
+  }
+  
+  .user h2 {
+    color: #007bff;
+  }
+  
+  .user form {
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .user input[type="file"] {
+    margin: 10px 0;
+  }
+  
+  .user button {
+    background-color: #007bff;
+    border: none;
+    padding: 10px;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .user button:hover {
+    background-color: #0056b3;
+  }
+  
+  .user h3 {
+    color: #333;
+  }
+  
+  .user p {
+    color: #555;
+  }
+  
